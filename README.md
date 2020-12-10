@@ -1,3 +1,4 @@
+
 # Machine Learning, Deployment Case Studies with AWS SageMaker
 
 This repository contains code and associated files for deploying ML models using AWS SageMaker. This repository consists of a number of tutorial notebooks for various case studies, code exercises, and project files that will be to illustrate parts of the ML workflow and give you practice deploying a variety of ML algorithms.
@@ -32,3 +33,5 @@ Log in to the [AWS console](https://console.aws.amazon.com) and go to the SageMa
 ### Open and run the notebook of your choice
 
 Now that the repository has been cloned into the notebook instance you may navigate to any of the notebooks that you wish to complete or execute and work with them. Additional instructions are contained in their respective notebooks.
+
+# udacity_sagemaker_casestudies
